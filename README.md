@@ -4,10 +4,10 @@
 
 NetCare Kampus adalah prototipe akademik untuk membantu civitas akademika melaporkan gangguan Wi-Fi/LAN, melihat daftar laporan, mencari dan memfilter gangguan, serta memantau status penanganannya. Proyek disusun sebagai studi kasus UTS Rekayasa Perangkat Lunak (D3 Teknik Komputer).
 
-## Demo
+## Demo dan repository
 
-- **Website statis:** https://ismoyobani.github.io/NetCare/ (hanya tersedia jika GitHub Pages diaktifkan; deployment utama direncanakan melalui Vercel).
 - **Repository:** https://github.com/ismoyobani/NetCare
+- **Deployment Vercel:** belum tersedia; pembuatan proyek Vercel tertahan karena koneksi yang tersedia tidak memiliki akses ke scope akun Vercel pemilik repository. URL akan dicantumkan setelah scope tersebut diotorisasi dan deployment berhasil diverifikasi.
 
 ## Menjalankan website
 
@@ -29,7 +29,7 @@ Website memakai HTML, CSS, dan JavaScript murni tanpa proses build atau dependen
 
 ## Batasan penting
 
-Ini adalah **prototipe front-end**, bukan sistem produksi. Data bersifat simulasi dan tersimpan di browser yang digunakan; belum ada server, autentikasi, basis data bersama, notifikasi, atau integrasi monitoring jaringan real-time. Jangan masukkan kata sandi atau informasi sensitif. Dokumen analisis, kebutuhan, model proses, rancangan basis data, rencana SDLC, serta demonstrasi Git tersedia di folder `docs/`.
+Ini adalah **prototipe front-end**, bukan sistem produksi. Data bersifat simulasi dan tersimpan di browser yang digunakan; belum ada server, autentikasi, basis data bersama, notifikasi, atau integrasi monitoring jaringan real-time. Jangan masukkan kata sandi atau informasi sensitif. Dokumen analisis, kebutuhan, model proses, rancangan basis data, rencana SDLC, serta panduan Git tersedia di folder `docs/`.
 
 ## Struktur proyek
 
@@ -59,4 +59,4 @@ HTML5 · CSS3 · JavaScript (vanilla) · localStorage · Git/GitHub · Vercel un
 - Mahasiswa: Bani Ismoyo
 - NIM: 240104003
 
-> Catatan: judul dan dokumen ini perlu diselaraskan dengan arahan dosen pembimbing/pengampu sebelum pengumpulan final.
+> Catatan: judul dan dokumen ini perlu diselaraskan dengan arahan dosen pengampu sebelum pengumpulan final.
