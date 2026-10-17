@@ -1,0 +1,15 @@
+# Local/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+# Build/dependency output (not required by this static site)
+node_modules/
+coverage/
+.vercel/
